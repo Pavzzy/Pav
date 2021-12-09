@@ -1,0 +1,9 @@
+**Backup Vault**
+
+A Backup vault is a management entity that stores recovery points
+created over time and provides an interface to perform backup related
+operations. These include taking on-demand backups, performing restores,
+and creating backup policies.
+
+[Backup Vault\| Microsoft
+Docs](https://docs.microsoft.com/en-us/azure/backup/backup-vault-overview)
